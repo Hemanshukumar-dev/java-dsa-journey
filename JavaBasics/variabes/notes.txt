@@ -1,0 +1,11 @@
+there are 8 types of primitive data types-
+
+  Name     Size
+1.Byte   - 1 byte
+2.short  - 2 byte
+3.char   - 2 byte
+4.boolean- 1 byte
+5.int    - 4 byte
+6.long   - 8 byte
+7.float  - 4 byte
+8.double - 8 byte
