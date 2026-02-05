@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 2
+Easy: 4
 Medium: 0
 Hard: 0
-Total Solved: 2
+Total Solved: 4
 
 ---
 
@@ -16,8 +16,18 @@ Total Solved: 2
 - Brute force(nested loops)
 - Check all pairs until target sum is found
 
+### 📄 LeetCode/Easy/LC125.java
+- Valid Palindrome
+- Two-pointer approach
+- In place solution
+
 ### 📄 LeetCode/Easy/Lc344.java
 - Reverse String
 - Two pointers
 - In-place swap
+
+### 📄 LeetCode/Easy/LC9.java
+- Palindrome Number
+- Reverse number approach
+- digit extraction
 
