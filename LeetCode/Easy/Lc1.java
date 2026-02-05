@@ -1,3 +1,6 @@
+//Two Sum
+//Brute force(nested loops)
+//Check all pairs until target sum is found
 class Solution {
     public int[] twoSum(int[] nums, int target) {
        for(int i = 0; i < nums.length; i++){
