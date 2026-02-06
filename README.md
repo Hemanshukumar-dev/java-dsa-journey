@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 4
+Easy: 5
 Medium: 0
 Hard: 0
-Total Solved: 4
+Total Solved: 5
 
 ---
 
@@ -20,6 +20,11 @@ Total Solved: 4
 - Valid Palindrome
 - Two-pointer approach
 - In place solution
+
+### 📄 LeetCode/Easy/LC283.java
+- move zeros
+- brute force
+- move each zero to end
 
 ### 📄 LeetCode/Easy/Lc344.java
 - Reverse String
