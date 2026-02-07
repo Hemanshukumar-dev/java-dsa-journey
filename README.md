@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 6
+Easy: 7
 Medium: 0
 Hard: 0
-Total Solved: 6
+Total Solved: 7
 
 ---
 
@@ -20,6 +20,11 @@ Total Solved: 6
 - Valid Palindrome
 - Two-pointer approach
 - In place solution
+
+### 📄 LeetCode/Easy/LC26.java
+- Remove Duplicates from Sorted Array
+- Two pointer
+- compare and update.
 
 ### 📄 LeetCode/Easy/LC283.java
 - move zeros
