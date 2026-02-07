@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 5
+Easy: 6
 Medium: 0
 Hard: 0
-Total Solved: 5
+Total Solved: 6
 
 ---
 
@@ -35,4 +35,9 @@ Total Solved: 5
 - Palindrome Number
 - Reverse number approach
 - digit extraction
+
+### 📄 LeetCode/Easy/LC977.java
+- Squares of a Sorted Array
+- Two pointers
+- square the element and compare.
 
