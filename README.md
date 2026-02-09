@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 7
+Easy: 8
 Medium: 0
 Hard: 0
-Total Solved: 7
+Total Solved: 8
 
 ---
 
@@ -35,6 +35,11 @@ Total Solved: 7
 - Reverse String
 - Two pointers
 - In-place swap
+
+### 📄 LeetCode/Easy/LC88.java
+- Merge Sorted Array
+- two pointers
+- sorting
 
 ### 📄 LeetCode/Easy/LC9.java
 - Palindrome Number
