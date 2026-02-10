@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 8
+Easy: 9
 Medium: 0
 Hard: 0
-Total Solved: 8
+Total Solved: 9
 
 ---
 
@@ -20,6 +20,11 @@ Total Solved: 8
 - Valid Palindrome
 - Two-pointer approach
 - In place solution
+
+### 📄 LeetCode/Easy/LC169.java
+- Majority Element
+- Brute force
+- checking each number
 
 ### 📄 LeetCode/Easy/LC26.java
 - Remove Duplicates from Sorted Array
