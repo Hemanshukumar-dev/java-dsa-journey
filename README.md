@@ -42,7 +42,9 @@ Total Solved: 10
 - In-place swap
 
 ### 📄 LeetCode/Easy/LC704.java
-- No summary comments found
+- Binary Search
+- Binary Search
+- Finding index of Target
 
 ### 📄 LeetCode/Easy/LC88.java
 - Merge Sorted Array
