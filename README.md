@@ -2,10 +2,10 @@
 
 ## 📊 Progress Counter
 
-Easy: 10
+Easy: 11
 Medium: 0
 Hard: 0
-Total Solved: 10
+Total Solved: 11
 
 ---
 
@@ -25,6 +25,11 @@ Total Solved: 10
 - Majority Element
 - Brute force
 - checking each number
+
+### 📄 LeetCode/Easy/LC242.java
+- Valid Anagram
+- Sorting
+- comparing
 
 ### 📄 LeetCode/Easy/LC26.java
 - Remove Duplicates from Sorted Array
