@@ -52,3 +52,26 @@ import java.util.Scanner;
 //     System.out.println("product of a and b is: " + product);
 //   }
 // }
+
+
+
+//writing factorial using method
+
+public class syntax{
+
+  public static int factorial(int num){
+    int n = num;
+    int fact = 1;
+    for(int i = n; i>0;i--){
+      fact = fact *i;
+    }
+    return fact;
+  }
+
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    int num = sc.nextInt();
+    int result = factorial(num);
+    System.out.println("factorial of a is: " + result);
+  }
+}
